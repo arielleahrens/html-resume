@@ -1,0 +1,32 @@
+* {
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+    font-size: 1vw;
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 3.2rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+
+img {
+    height: 45vh;
+}
+
+p, li, b, i {
+    font-size: 2rem;
+}
+
+footer p {
+    font-size: 1.5rem;
+}
